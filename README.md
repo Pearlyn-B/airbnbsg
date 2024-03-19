@@ -10,7 +10,7 @@ The objective of this dashboard is to furnish Airbnb Singapore with comprehensiv
 
 # Snapshot of Dashboard
 
-![db_1](https://github.com/Pearlyn-B/portfolio/assets/80374547/d31ed80e-cf8e-424b-8e8d-7ad364c4be41)
+![db_2](https://github.com/Pearlyn-B/portfolio/assets/80374547/ad8e368b-8efd-41f6-b821-5d672f23eaa7)
 
 # Insights
 
@@ -20,7 +20,7 @@ Following inferences can be drawn from the dashboard;
 The central region emerges as highly competitive, hosting the majority of listings (80.68%). Interestingly, despite the abundance of listings, it exhibits the lowest average occupancy rate. This inverse relationship between the number of listings and occupancy rates suggests that high competition in the central region may be impacting hosts' success, resulting in lower occupancy rates.
 
 ### [2] Underserved Potential in North-East and East Regions:
-The North-East and East regions, with only 3.44% and 5.38% of the listings respectively, present an untapped opportunity. Despite their relatively high average prices, both regions boast the top 2 highest occupancy rates. To meet the demand, Airbnb Singapore should consider targeted host recruitment efforts in these underserved areas, potentially leveraging location-based marketing.
+The North-East and North regions, with only 3.44% and 2.88% of the listings respectively, present an untapped opportunity. Despite their relatively high average prices, both regions boast the top 2 highest occupancy rates. To meet the demand, Airbnb Singapore should consider targeted host recruitment efforts in these underserved areas, potentially leveraging location-based marketing.
 
 ### [3] Drivers of Occupany Rate:
 ![kf_1](https://github.com/Pearlyn-B/portfolio/assets/80374547/fd46a84e-2207-4318-ba2e-346ead913bea)
