@@ -10,7 +10,7 @@ The objective of this dashboard is to furnish Airbnb Singapore with comprehensiv
 
 # Snapshot of Dashboard
 
-![db_2](https://github.com/Pearlyn-B/portfolio/assets/80374547/ad8e368b-8efd-41f6-b821-5d672f23eaa7)
+![db_2](https://github.com/Pearlyn-B/da-portfolio/assets/80374547/46123708-2b86-4164-aa87-0658258eee0c)
 
 # Insights
 
@@ -23,7 +23,7 @@ The central region emerges as highly competitive, hosting the majority of listin
 The North-East and North regions, with only 3.44% and 2.88% of the listings respectively, present an untapped opportunity. Despite their relatively high average prices, both regions boast the top 2 highest occupancy rates. To meet the demand, Airbnb Singapore should consider targeted host recruitment efforts in these underserved areas, potentially leveraging location-based marketing.
 
 ### [3] Drivers of Occupany Rate:
-![kf_1](https://github.com/Pearlyn-B/portfolio/assets/80374547/fd46a84e-2207-4318-ba2e-346ead913bea)
+![kf_1](https://github.com/Pearlyn-B/da-portfolio/assets/80374547/e7ea38db-aa5d-4ef5-853d-7066ff7bc463)
 - Listing Count:
 The key influencer chart highlights a crucial trend where hosts with a listing count of 100-140 achieve a 53.34% increase in occupancy rates, indicating their proficiency in delivering high-quality services that enhance guest satisfaction. The substantial inventory not only builds a strong brand identity that earns customer trust but also allows for a diversified portfolio that caters to a wider customer audience across different locations and property type, effectively managing risks from seasonal shifts and market dynamics. However, having more than 140 listings does not automatically equate to higher occupancy rates, implying a threshold beyond which quantity may dilute the quality of the guest experience, suggesting a strategic pivot towards enhancing service quality may be more beneficial.
 
